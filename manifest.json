@@ -1,0 +1,8 @@
+
+{
+  "name": "CampusHelper",
+  "version": "1.0.0",
+  "description": "A simple rule-based Q&A chatbot built with Python",
+  "main": "chatbot.py",
+  "language": "Python"
+}
